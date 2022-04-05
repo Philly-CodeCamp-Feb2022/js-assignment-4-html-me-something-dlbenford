@@ -11,13 +11,13 @@ body {
     color: red;
 }
 
-.testP {
+.funParagraph {
     color: green;
 }
 
 img {
     float: left;
-    width: 100px;
+    width: 300px;
     height: 100px;
     object-fit: cover;
 }
